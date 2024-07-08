@@ -4,3 +4,4 @@ setuptools>=18.5
 sphinx
 sphinx-rtd-theme
 docrepr
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
