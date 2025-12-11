@@ -4,3 +4,4 @@ setuptools>=18.5
 sphinx
 sphinx-rtd-theme
 docrepr
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
